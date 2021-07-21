@@ -504,7 +504,7 @@ const DATA = {
                 "הנחיות לצום": [
                     {
                         cardType: "picAndText",
-                        pic:"../assets/images/learning/מסכים/assets/TohenPic/chomotTohen.png" ,
+                        pic:"../assets/images/learning/מסכים/assets/TohenPic/ChomotTohen.png" ,
                         content: "ימי הצום הם: צום גדליה, יוה\"כ, עשרה בטבת, תענית אסתר, יז' בתמוז, תשעה באב "
                     },
                     {
