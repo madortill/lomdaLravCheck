@@ -395,10 +395,6 @@
   text-align: right;
 }
 
-.change-font {
-  font-size: 1.1em;
-}
-
 .page.learning.content .card-group {
   display: none;
   position: relative;
